@@ -1,0 +1,68 @@
+/*header*/
+header{
+    background-image: url(photo1.jpg);
+    height: 600px;
+}
+header section{
+    justify-content: space-between;
+    display: flex;
+}
+header section nav{
+    display: flex;
+    margin-top: 0px;
+    float:right;
+}
+header p{
+    font-size: 20px;
+}
+header nav a{
+    font-size: 40px;
+    color: black;
+    border-bottom: none;
+    text-decoration:solid;
+    margin-left: 20px;
+}
+.mod{
+    text-align: center;
+    margin-top: 150px;
+}
+.mod button{
+    background-color: rgb(86, 168, 235);
+    padding: 15px 40px;
+    border: none;
+}
+/* SECTION1 section */
+.B{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.A{
+    text-align: center;
+    font-size: 30px;
+}
+.D{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+.E{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+.F{
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+ margin: 30px;   
+}
+.G{
+    text-align: center;
+    font-family: sans-serif;
+}
