@@ -29,7 +29,7 @@ header nav a{
 .mod button{
     background-color: rgb(86, 168, 235);
     padding: 15px 40px;
-    border: none;
+    border-radius: 25px;
 }
 /* SECTION1 section */
 .B{
@@ -65,4 +65,59 @@ header nav a{
 .G{
     text-align: center;
     font-family: sans-serif;
+}
+
+
+.I{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.J{
+    text-align: center;
+    font-family: sans-serif;
+}
+.K{
+    display: flex;
+}
+.L{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.M{
+    text-align: center;
+    font-family: sans-serif;
+}
+/* Section footer */
+footer{
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.303);
+}
+.N{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+
+}
+.O{
+    text-align: center;
+}
+.P{
+    display: flex;
+    justify-content:center;
+    font-family: sans-serif;
+    color: white;
+    
+}
+.Z{
+    background-color: black;
+    padding-top: 45px;
+}
+.Y{
+    font-size: 45px;
+    color: blue;
+}
+.W{
+    margin-left: 30px;
 }
